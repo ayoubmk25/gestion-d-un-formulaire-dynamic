@@ -1,0 +1,144 @@
+{
+  "settings": {
+    "title": "",
+    "tabs": {
+      "notifications": "",
+      "appearance": ""
+    },
+    "notifications": {
+      "title": "",
+      "description": "",
+      "email": {
+        "label": "",
+        "description": ""
+      },
+      "types": {
+        "title": "",
+        "form_assignments": {
+          "label": "",
+          "description": ""
+        },
+        "form_validations": {
+          "label": "",
+          "description": ""
+        },
+        "system_updates": {
+          "label": "",
+          "description": ""
+        }
+      },
+      "save_button": {
+        "saving": "",
+        "save": ""
+      }
+    },
+    "appearance": {
+      "title": "",
+      "description": "",
+      "theme": {
+        "label": "",
+        "placeholder": "",
+        "light": "",
+        "dark": "",
+        "system": ""
+      },
+      "language": {
+        "label": "",
+        "placeholder": "",
+        "english": "",
+        "french": "",
+        "spanish": ""
+      }
+    }
+  },
+  "settings.language_select_label": "Seleccionar idioma",
+  "layout.menu": "MENÚ",
+  "layout.dashboard": "Panel de control",
+  "layout.documents": "Documentos",
+  "layout.formTemplates": "Plantillas de formulario",
+  "layout.formAssignments": "Asignaciones de formulario",
+  "layout.collaborators": "Colaboradores",
+  "layout.companies": "Empresas",
+  "layout.settings": "Configuración",
+  "layout.lightMode": "Modo claro",
+  "layout.darkMode": "Modo oscuro",
+  "layout.signOut": "Cerrar sesión",
+  "layout.openSidebar": "Abrir barra lateral",
+  "layout.notifications": "Notificaciones",
+  "layout.newFormAssignmentTitle": "Nueva asignación de formulario",
+  "layout.newFormAssignmentDescription": "Se le ha asignado un nuevo formulario de inspección de equipos.",
+  "layout.timeAgo": "hace {{time}}",
+  "layout.formSubmissionValidatedTitle": "Envío de formulario validado",
+  "layout.formSubmissionValidatedDescription": "Su formulario de satisfacción del cliente ha sido validado.",
+  "layout.viewAllNotifications": "Ver todas las notificaciones",
+  "layout.myAccount": "Mi cuenta",
+  "layout.discussion": "Discusión",
+  "layout.profile": "Perfil",
+  "layout.testTranslation": "Esta es una traducción de prueba.",
+  "dashboard": {
+    "title": "Panel de control",
+    "companies": {
+      "title": "Empresas",
+      "description": "Organizaciones registradas",
+      "active": "Activo",
+      "inactive": "Inactivo",
+      "noCompanies": "No hay empresas registradas aún"
+    },
+    "view": "Ver",
+    "collaborators": {
+      "title": "Colaboradores",
+      "description": "Miembros del equipo",
+      "activeMembers": "{{count}} miembros activos"
+    },
+    "formTemplates": {
+      "title": "Plantillas de formulario",
+      "description": "Plantillas disponibles",
+      "formsToCreate": "{{count}} formularios para crear"
+    },
+    "submissions": {
+      "title": "Envíos",
+      "description": "Envíos de formulario"
+    },
+    "submissionStatus": {
+      "title": "Estado del envío",
+      "description": {
+        "admin": "Estados de envío de formulario",
+        "collaborator": "Sus envíos de formulario"
+      },
+      "draft": {
+        "title": "Borrador",
+        "description": "Envíos incompletos"
+      },
+      "submitted": {
+        "title": "Enviado",
+        "description": "Validación pendiente"
+      },
+      "validated": {
+        "title": "Validado",
+        "description": "Envíos aprobados"
+      }
+    },
+    "formManagement": {
+      "title": "Gestión de formularios",
+      "description": "Estadísticas de plantillas y asignaciones",
+      "availableTemplates": "Plantillas disponibles",
+      "formsToCreate": "Formularios para crear",
+      "activeCollaborators": "Colaboradores activos"
+    },
+    "formManagement.createNewTemplate": "Crear nueva plantilla",
+    "formManagement.viewProfile": "Ver perfil",
+    "assignedForms": {
+      "title": "Formularios asignados",
+      "description": "Formularios asignados a usted"
+    },
+    "viewAll": "Ver todo",
+    "completedForms": {
+      "title": "Formularios completados",
+      "description": "Sus envíos"
+    },
+    "pending": {
+      "title": "Pendiente",
+      "description": "Borradores y no validados"
+    }
+  }
+}

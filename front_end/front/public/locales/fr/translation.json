@@ -1,0 +1,143 @@
+{
+  "settings": {
+    "title": "",
+    "tabs": {
+      "notifications": "",
+      "appearance": ""
+    },
+    "notifications": {
+      "title": "",
+      "description": "",
+      "email": {
+        "label": "",
+        "description": ""
+      },
+      "types": {
+        "title": "",
+        "form_assignments": {
+          "label": "",
+          "description": ""
+        },
+        "form_validations": {
+          "label": "",
+          "description": ""
+        },
+        "system_updates": {
+          "label": "",
+          "description": ""
+        }
+      },
+      "save_button": {
+        "saving": "",
+        "save": ""
+      }
+    },
+    "appearance": {
+      "title": "",
+      "description": "",
+      "theme": {
+        "label": "",
+        "placeholder": "",
+        "light": "",
+        "dark": "",
+        "system": ""
+      },
+      "language": {
+        "label": "",
+        "placeholder": "",
+        "english": "",
+        "french": "",
+        "spanish": ""
+      }
+    }
+  },
+  "settings.language_select_label": "Sélectionner la langue",
+  "layout.menu": "MENU",
+  "layout.dashboard": "Tableau de bord",
+  "layout.documents": "Documents",
+  "layout.formTemplates": "Modèles de formulaire",
+  "layout.formAssignments": "Affectations de formulaire",
+  "layout.collaborators": "Collaborateurs",
+  "layout.companies": "Entreprises",
+  "layout.settings": "Paramètres",
+  "layout.lightMode": "Mode clair",
+  "layout.darkMode": "Mode sombre",
+  "layout.signOut": "Se déconnecter",
+  "layout.openSidebar": "Ouvrir la barre latérale",
+  "layout.notifications": "Notifications",
+  "layout.newFormAssignmentTitle": "Nouvelle affectation de formulaire",
+  "layout.newFormAssignmentDescription": "Une nouvelle fiche d'inspection d'équipement vous a été attribuée.",
+  "layout.timeAgo": "il y a {{time}}",
+  "layout.formSubmissionValidatedTitle": "Soumission de formulaire validée",
+  "layout.formSubmissionValidatedDescription": "Votre formulaire de satisfaction client a été validé.",
+  "layout.viewAllNotifications": "Voir toutes les notifications",
+  "layout.discussion": "Discussion",
+  "layout.myAccount": "Mon compte",
+  "layout.profile": "Profil",
+  "dashboard": {
+    "title": "Tableau de bord",
+    "companies": {
+      "title": "Entreprises",
+      "description": "Organisations enregistrées",
+      "active": "Actif",
+      "inactive": "Inactif",
+      "noCompanies": "Aucune entreprise enregistrée pour l'instant"
+    },
+    "view": "Voir",
+    "collaborators": {
+      "title": "Collaborateurs",
+      "description": "Membres de l'équipe",
+      "activeMembers": "{{count}} membres actifs"
+    },
+    "formTemplates": {
+      "title": "Modèles de formulaire",
+      "description": "Modèles disponibles",
+      "formsToCreate": "{{count}} formulaires à créer"
+    },
+    "submissions": {
+      "title": "Soumissions",
+      "description": "Soumissions de formulaire"
+    },
+    "submissionStatus": {
+      "title": "Statut de la soumission",
+      "description": {
+        "admin": "Statuts de soumission de formulaire",
+        "collaborator": "Vos soumissions de formulaire"
+      },
+      "draft": {
+        "title": "Brouillon",
+        "description": "Soumissions incomplètes"
+      },
+      "submitted": {
+        "title": "Soumis",
+        "description": "Validation en attente"
+      },
+      "validated": {
+        "title": "Validé",
+        "description": "Soumissions approuvées"
+      }
+    },
+    "formManagement": {
+      "title": "Gestion des formulaires",
+      "description": "Statistiques des modèles et des affectations",
+      "availableTemplates": "Modèles disponibles",
+      "formsToCreate": "Formulaires à créer",
+      "activeCollaborators": "Collaborateurs actifs"
+    },
+    "formManagement.createNewTemplate": "Créer un nouveau modèle",
+    "formManagement.viewProfile": "Voir le profil",
+    "assignedForms": {
+      "title": "Formulaires assignés",
+      "description": "Formulaires qui vous sont assignés"
+    },
+    "viewAll": "Voir tout",
+    "completedForms": {
+      "title": "Formulaires complétés",
+      "description": "Vos soumissions"
+    },
+    "pending": {
+      "title": "En attente",
+      "description": "Brouillons et non validés"
+    }
+  }
+}

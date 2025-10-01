@@ -1,0 +1,142 @@
+{
+  "settings": {
+    "title": "Settings",
+    "tabs": {
+      "notifications": "Notifications",
+      "appearance": "Appearance"
+    },
+    "notifications": {
+      "title": "Notification Preferences",
+      "description": "Configure how and when you receive notifications",
+      "email": {
+        "label": "Email Notifications",
+        "description": "Enable or disable all email notifications"
+      },
+      "types": {
+        "title": "Notification Types",
+        "form_assignments": {
+          "label": "Form Assignments",
+          "description": "Receive notifications when you are assigned a new form"
+        },
+        "form_validations": {
+          "label": "Form Validations",
+          "description": "Receive notifications when your form is validated or needs changes"
+        },
+        "system_updates": {
+          "label": "System Updates",
+          "description": "Receive notifications about new features and platform updates"
+        }
+      },
+      "save_button": {
+        "saving": "Saving...",
+        "save": "Save Preferences"
+      }
+    },
+    "appearance": {
+      "title": "Appearance",
+      "description": "Customize the look and feel of the application",
+      "theme": {
+        "label": "Theme",
+        "placeholder": "Select theme",
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+      },
+      "language": {
+        "label": "Language",
+        "placeholder": "Select language",
+        "english": "English",
+        "french": "Français",
+        "spanish": "Español"
+      }
+    }
+  },
+  "layout.menu": "MENU",
+  "layout.dashboard": "Dashboard",
+  "layout.documents": "Documents",
+  "layout.formTemplates": "Form Templates",
+  "layout.formAssignments": "Form Assignments",
+  "layout.collaborators": "Collaborators",
+  "layout.companies": "Companies",
+  "layout.settings": "Settings",
+  "layout.lightMode": "Light Mode",
+  "layout.darkMode": "Dark Mode",
+  "layout.signOut": "Sign out",
+  "layout.openSidebar": "Open sidebar",
+  "layout.notifications": "Notifications",
+  "layout.newFormAssignmentTitle": "New form assignment",
+  "layout.newFormAssignmentDescription": "You've been assigned a new equipment inspection form.",
+  "layout.formSubmissionValidatedTitle": "Form submission validated",
+  "layout.formSubmissionValidatedDescription": "Your customer satisfaction form has been validated.",
+  "layout.viewAllNotifications": "View all notifications",
+  "layout.discussion": "Discussion",
+  "layout.myAccount": "My Account",
+  "layout.profile": "Profile",
+
+  "dashboard": {
+    "title": "Dashboard",
+    "companies": {
+      "title": "Companies",
+      "description": "Registered organizations",
+      "active": "Active",
+      "inactive": "Inactive",
+      "noCompanies": "No companies registered yet"
+    },
+    "view": "View",
+    "collaborators": {
+      "title": "Collaborators",
+      "description": "Team members",
+      "activeMembers": "{{count}} active members"
+    },
+    "formTemplates": {
+      "title": "Form Templates",
+      "description": "Available templates",
+      "formsToCreate": "{{count}} forms to create"
+    },
+    "submissions": {
+      "title": "Submissions",
+      "description": "Form submissions"
+    },
+    "submissionStatus": {
+      "title": "Submission Status",
+      "description": {
+        "admin": "Form submission statuses",
+        "collaborator": "Your form submissions"
+      },
+      "draft": {
+        "title": "Draft",
+        "description": "Incomplete submissions"
+      },
+      "submitted": {
+        "title": "Submitted",
+        "description": "Pending validation"
+      },
+      "validated": {
+        "title": "Validated",
+        "description": "Approved submissions"
+      }
+    },
+    "formManagement": {
+      "title": "Form Management",
+      "description": "Template and assignment stats",
+      "availableTemplates": "Available Templates",
+      "formsToCreate": "Forms To Create",
+      "activeCollaborators": "Active Collaborators",
+      "createNewTemplate": "Create New Template",
+      "viewProfile": "View Profile"
+    },
+    "assignedForms": {
+      "title": "Assigned Forms",
+      "description": "Forms assigned to you"
+    },
+    "viewAll": "View All",
+    "completedForms": {
+      "title": "Completed Forms",
+      "description": "Your submissions"
+    },
+    "pending": {
+      "title": "Pending",
+      "description": "Drafts and unvalidated"
+    }
+  }
+}
